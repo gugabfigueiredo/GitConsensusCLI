@@ -1,7 +1,6 @@
-# GitConsensus
+# GitPoll
 
-This simple project allows github projects to be automated. It uses "reaction" as a voting mechanism to automatically
-merge (or close) pull requests.
+GitPoll is a fork of [GitConsensusCLI](https://github.com/gitconsensus/GitConsensusCLI), a simple project allows github projects to be automated. It uses "reaction" as a voting mechanism to automatically merge (or close) pull requests.
 
 ## Consensus Rules
 
